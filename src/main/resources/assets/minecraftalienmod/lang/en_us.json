@@ -2,12 +2,13 @@
   "itemGroup.minecraftalienmod": "Example Mod Tab",
   "block.minecraftalienmod.example_block": "Example Block",
   "item.minecraftalienmod.example_item": "Example Item",
-
+"item.minecraftalienmod.strawberry": "strawberry",
+  "item.minecraftalienmod.oldfashioned": "old fashioned",
   "minecraftalienmod.configuration.title": "minecraft_alien_mod Configs",
   "minecraftalienmod.configuration.section.minecraftalienmod.common.toml": "minecraft_alien_mod Configs",
   "minecraftalienmod.configuration.section.minecraftalienmod.common.toml.title": "minecraft_alien_mod Configs",
   "minecraftalienmod.configuration.items": "Item List",
   "minecraftalienmod.configuration.logDirtBlock": "Log Dirt Block",
   "minecraftalienmod.configuration.magicNumberIntroduction": "Magic Number Text",
-  "minecraftalienmod.configuration.magicNumber": "Magic Number"
+  "minecraftalienmod.configuration.magicNumber": "Magic Number",
 }
