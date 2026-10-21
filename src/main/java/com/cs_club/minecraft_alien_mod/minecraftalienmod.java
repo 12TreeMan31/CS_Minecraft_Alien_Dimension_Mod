@@ -99,6 +99,7 @@ class CopperSwordItem extends SwordItem {
                 SoundEvents.GHAST_SHOOT, SoundSource.PLAYERS, 1.0F, 1.0F);
     }
 }
+
 @Mod(minecraftalienmod.MODID)
 public class minecraftalienmod {
 
@@ -381,6 +382,6 @@ public class minecraftalienmod {
     // Server starting event
     @SubscribeEvent
     public void onServerStarting(ServerStartingEvent event) {
-        LOGGER.info("HELLO from server starting");
+        LOGGER.info("HELLO from server starting bozo");
     }
 }
